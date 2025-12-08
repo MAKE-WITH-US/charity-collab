@@ -2807,6 +2807,10 @@ figure {
   width: 142px;
 }
 
+.nav-logo{
+  width:200%;
+}
+
 .error-message {
   background-color: #ff9a9a;
   border-radius: 8px;
