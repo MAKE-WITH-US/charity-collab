@@ -2191,7 +2191,7 @@ img {
 blockquote {
   font-family: var(--font-family--title-font);
   text-align: center;
-  background-color: #351c420d;
+  background-color: #1c2c420d;
   background-image: url("../68b67d1a41510a89fa37cd8c_Blog Qoute Icon.svg");
   background-position: 50% 40px;
   background-repeat: no-repeat;
@@ -2280,7 +2280,7 @@ figure {
 }
 
 .color-block.white-color.border {
-  border: 1px solid #351c4233;
+  border: 1px solid #1c2e4233;
 }
 
 .main-container {
@@ -2667,7 +2667,7 @@ figure {
 }
 
 .nav-menu-wrapper {
-  border: 1px solid #351c4226;
+  border: 1px solid #1c2f4226;
   border-radius: 8px;
   padding: 10px 24px;
 }
@@ -2751,7 +2751,7 @@ figure {
 }
 
 .tertiary-button:hover {
-  border-color: #351c4226;
+  border-color: #1c334226;
 }
 
 .tertiary-button:hover:where(.w-variant-ca016c73-1015-7e41-ddfe-6dc36e317ed6) {
@@ -2986,7 +2986,7 @@ figure {
 }
 
 .hero-content-block {
-  background-color: #351c421a;
+  background-color: #1c31421a;
   border-radius: 16px;
   flex-flow: column;
   justify-content: space-between;
@@ -3134,7 +3134,7 @@ figure {
 }
 
 .hero-stat-text-block {
-  border-bottom: 1px solid #351c4226;
+  border-bottom: 1px solid #1c314226;
   padding-bottom: 12px;
 }
 
@@ -3329,7 +3329,7 @@ figure {
 }
 
 .subtitle-liner {
-  background-color: #351c4226;
+  background-color: #1c304226;
   width: 100%;
   height: 1px;
 }
@@ -3398,7 +3398,7 @@ figure {
 .service-item-content-block {
   grid-column-gap: 17px;
   grid-row-gap: 17px;
-  border: 1px solid #351c4226;
+  border: 1px solid #1c314226;
   border-radius: 16px;
   justify-content: flex-start;
   align-items: center;
@@ -3703,7 +3703,7 @@ figure {
 .blog-item-content-block {
   grid-column-gap: 20px;
   grid-row-gap: 20px;
-  border: 1px solid #351c4226;
+  border: 1px solid #1c2f4226;
   border-top-style: none;
   border-bottom-right-radius: 16px;
   border-bottom-left-radius: 16px;
@@ -3860,8 +3860,8 @@ figure {
 .work-process-step-card {
   grid-column-gap: 30px;
   grid-row-gap: 30px;
-  background-color: #351c420d;
-  border: 1px solid #351c4226;
+  background-color: #1c2c420d;
+  border: 1px solid #1c284226;
   border-radius: 16px;
   flex: none;
   display: inline-flex;
@@ -3939,8 +3939,8 @@ figure {
 }
 
 .slide-content-block {
-  background-color: #351c420d;
-  border: 1px solid #351c4226;
+  background-color: #1c2c420d;
+  border: 1px solid #1c294226;
   border-radius: 16px;
   width: 670px;
   padding: 32px;
@@ -4122,8 +4122,8 @@ figure {
 }
 
 .causes-item-content-block {
-  background-color: #351c420d;
-  border: 1px solid #351c4226;
+  background-color: #1c2e420d;
+  border: 1px solid #1c2f4226;
   border-radius: 16px;
   width: 50%;
   padding: 40px;
@@ -4438,7 +4438,7 @@ figure {
 }
 
 .secondary-button {
-  border: 1px solid #351c4226;
+  border: 1px solid #1c2f4226;
   border-radius: 10px;
   text-decoration: none;
   display: block;
@@ -4626,8 +4626,8 @@ figure {
 .testimonial-slide-content-block {
   grid-column-gap: 122px;
   grid-row-gap: 122px;
-  background-color: #351c420d;
-  border: 1px solid #351c4226;
+  background-color: #1c2c420d;
+  border: 1px solid #1c304226;
   border-radius: 16px;
   flex-flow: column;
   justify-content: space-between;
@@ -4656,7 +4656,7 @@ figure {
 
 .faq-single-item {
   background-color: #351c420d;
-  border: 1px solid #351c4226;
+  border: 1px solid #1c2d4226;
   border-radius: 16px;
   width: 100%;
   padding: 20px;
@@ -4919,8 +4919,8 @@ figure {
 }
 
 .contact-form-block.is-2 {
-  background-color: #351c420d;
-  border: 1px solid #351c4226;
+  background-color: #1c2c420d;
+  border: 1px solid #1c2c4226;
   border-radius: 16px;
   justify-content: space-between;
   align-items: flex-start;
@@ -4976,7 +4976,7 @@ figure {
   color: var(--color--black-color);
   -webkit-appearance: none;
   appearance: none;
-  border: 1px solid #351c4226;
+  border: 1px solid #1c2a4226;
   border-radius: 8px;
   min-height: 60px;
   margin-bottom: 0;
@@ -5111,7 +5111,7 @@ figure {
 }
 
 .utility-page-form {
-  border: 1px solid #351c421a;
+  border: 1px solid #1c30421a;
   border-radius: 16px;
   flex-direction: column;
   align-items: stretch;
@@ -5166,8 +5166,8 @@ figure {
 .support-single-block {
   grid-column-gap: 24px;
   grid-row-gap: 24px;
-  background-color: #351c420d;
-  border: 1px solid #351c4226;
+  background-color: #1c2f420d;
+  border: 1px solid #1c2a4226;
   border-radius: 16px;
   flex-flow: column;
   justify-content: flex-start;
@@ -5579,7 +5579,7 @@ figure {
 }
 
 .donation-form-block {
-  background-color: #351c420d;
+  background-color: #1c2c420d;
   border-radius: 16px;
   margin-bottom: 0;
   padding: 60px;
@@ -5618,8 +5618,8 @@ figure {
 
 .form-checkbox {
   cursor: pointer;
-  background-color: #351c420d;
-  border: 1px solid #351c4240;
+  background-color: #1c2d420d;
+  border: 1px solid #1c314240;
   border-radius: 4px;
   flex: none;
   width: 24px;
@@ -5630,7 +5630,7 @@ figure {
 
 .form-checkbox.w--redirected-checked {
   background-color: var(--color--primary-color);
-  box-shadow: 0 2px 5px #351c4266;
+  box-shadow: 0 2px 5px #1c304266;
 }
 
 .checkbox-text {
@@ -5641,7 +5641,7 @@ figure {
 }
 
 .utility-form-inner {
-  background-color: #351c421a;
+  background-color: #1c29421a;
   border-radius: 8px;
   padding: 40px 60px;
 }
@@ -5655,7 +5655,7 @@ figure {
   color: var(--color--black-color);
   -webkit-appearance: none;
   appearance: none;
-  border: 1px solid #351c4226;
+  border: 1px solid #1c2f4226;
   border-radius: 8px;
   min-height: 60px;
   margin-bottom: 0;
